@@ -1,4 +1,12 @@
 # PyTorch-learning
 欲使用 PyTorch 進行圖像辨識。先學習簡單線性及邏輯回歸模型，利用 PyTorch 自動計算梯度和 GPU 加速等功能，更有效的建立、訓練和優化神經網路。
 
-[課程網址](https://grandmacan.com/courses/WQgj9SntAQ5Vwrk7QpSB/lectures)
+### 計劃深入學習部分
+- **影像前處理與數據處理**
+<br>目前在PyTorch中學習使用tensor進行影像的前處理和數據處理，將資料預處理轉換成機器學習可用的數據格式，有助於未來專案中處理大量影像資料，並準備訓練和測試集。
+
+- **模型應用**
+<br>目前學習pytorch創建簡單線性回歸和邏輯回歸模型，之後會學習更多不同的模型應用，能運用在影像瑕疵檢測上。其中像是學習在PyTorch中建立相應的模型架構，使用MSE或二元交叉熵等loss function來計算模型的預測誤差，並利用梯度下降法的優化器來找到loss最低點，訓練出模型最佳參數用來預測結果。
+
+
+[學習課程網址](https://grandmacan.com/courses/WQgj9SntAQ5Vwrk7QpSB/lectures)
