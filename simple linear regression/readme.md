@@ -1,4 +1,4 @@
-# simple linear regression
+# Simple linear regression
 使用pytorch深度學習框架，將輸入跟輸出特徵看作單個神經元，並利用自動計算梯度和GPU加速模型計算，去進行年資跟薪資之間的關係預測
 
 ## 訓練步驟
