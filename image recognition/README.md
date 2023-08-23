@@ -10,5 +10,5 @@
 5. batch輸入模型進行訓練<br>
 6. 計算預測數據跟真實資料的損失函數(CrossEntropy交叉熵)<br>
 7. 設定優化器(SGD梯度下降法)，透過最小化損失函數去調整w,b，讓模型預測更接近真實資料<br>
-8. 進行多次模型計算，透過更新w,b參數，觀察cost下降過程跟準確率<br>
-<img src="https://github.com/Jessica302/PyTorch-learning/blob/main/image%20recognition/image/result.png" width=50%>
+8. 進行多次模型計算，透過更新w,b參數，觀察cost下降過程跟準確率<br><br>
+<img src="https://github.com/Jessica302/PyTorch-learning/blob/main/image%20recognition/image/result.png">
