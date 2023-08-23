@@ -3,6 +3,7 @@
 
 ### 訓練步驟
 1. 使用Pytorch官網提供的FashionMNIST datasets<br>
+<img src="https://github.com/Jessica302/PyTorch-learning/blob/main/image%20recognition/image/image.png" width=30%>
 2. 將圖片轉成tensor格式<br>
 3. 使用dataloader將60000張圖片分batch，比較好進行模型訓練<br>
 4. 建立模型，包含攤平和定義正向傳播<br>
